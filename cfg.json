@@ -1,7 +1,7 @@
 {
 "array":[{ 
-"url": " url куда отправляем пользователя",
-"urlSecond" : " url куда отправляем пользователя",
+"url": "https://www.google.ru/",
+"urlSecond" : "https://yandex.ru/",
 "randomValue":"50",
 "flag":"1"
 
