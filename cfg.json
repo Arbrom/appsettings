@@ -1,7 +1,7 @@
 {
 "array":[{ 
 "url": "https://www.google.ru/",
-"urlSecond" : "https://yandex.ru/",
+"urlSecond" : "http://yandex.ru/",
 "randomValue":"50",
 "flag":"1"
 
